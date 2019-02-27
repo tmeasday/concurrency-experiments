@@ -1,0 +1,12 @@
+{
+  "name": "bee-queue-concurrency",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bee-queue": "^1.2.2",
+    "bottleneck": "^2.17.0",
+    "esm": "^3.2.7",
+    "redis": "^2.8.0"
+  }
+}
